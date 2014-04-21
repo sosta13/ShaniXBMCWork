@@ -35,11 +35,12 @@
 </assignedcategory>
 </channel>
 <channel>
-<cname>Al Ikhbaria</cname>
+<cname>Al Ekhbariya Al Soriyah</cname>
 <imageurl>http://www.lyngsat-logo.com/logo/tv/aa/al_ikhbaria_sy.png</imageurl>
 <enabled>True</enabled>
 <assignedcategory>
 <category>sham</category>
+<category>news</category>
 </assignedcategory>
 </channel>
 
